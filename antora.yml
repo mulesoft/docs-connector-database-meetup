@@ -1,5 +1,5 @@
 name: db-connector
 title: Database Connector
-version: '1.2'
+version: '1.4'
 nav:
 - modules/ROOT/nav.adoc
