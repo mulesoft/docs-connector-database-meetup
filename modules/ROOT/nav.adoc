@@ -1,5 +1,3 @@
-.xref:index.adoc[Database Connector]
-* xref:index.adoc[Overview]
 * xref:db-configure-connection.adoc[Configuring a Database Connection]
 * xref:db-connector-query.adoc[Querying a Database]
 * xref:db-connector-insert-update-delete.adoc[Inserting, Updating, and Deleting Data]
